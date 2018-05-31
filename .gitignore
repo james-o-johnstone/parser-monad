@@ -1,0 +1,5 @@
+.stack-work/
+monad-parser.cabal
+.DS_Store
+.vscode/
+*~
